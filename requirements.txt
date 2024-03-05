@@ -1,0 +1,8 @@
+# requirements.txt
+
+Babel==2.13.1
+matplotlib==3.7.1
+numpy==1.25.0
+pandas==2.2.1
+seaborn==0.13.2
+streamlit==1.31.1
